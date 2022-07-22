@@ -1,7 +1,7 @@
 ### Hi there, I'm Chunyan👋! 
 <font face = "courier New">
 
-+ 🌱 I'm currently a M.D. student at China Agricultural University. Before that, I received my Bachelor’s degree in July 2017.  
++ 🌱 I'm currently a M.D. student at China Agricultural University. Before that, I received my Bachelor’s degree in July 2021.  
 
 + :information_desk_person: I’m currently working on Behavior Recognition tasks, especially Object Detection and Action Recognition.</font>
 
