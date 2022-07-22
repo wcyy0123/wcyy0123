@@ -7,9 +7,10 @@
 
 + 📫 How to reach me: [chunyan@cau.edu.cn]()
 
-- :rabbit:
+- :cherry_blossom: :rabbit:  :cherry_blossom:
 
-- :cherry_blossom:
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=wcyy0123&show_icons=true&icon_color=008B8B&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 <!--
 **wcyy0123/wcyy0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
