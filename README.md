@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Chunyan👋! 
+<font face = "courier New">
 
++ 🌱 I'm currently a M.D. student at China Agricultural University. Before that, I received my Bachelor’s degree in July 2017.  
+
++ :information_desk_person: I’m currently working on Behavior Recognition tasks, especially Object Detection and Action Recognition.</font>
+
++ 📫 How to reach me: [chunyan@cau.edu.cn]()
+
+- :rabbit:
+
+- :cherry_blossom:
 <!--
 **wcyy0123/wcyy0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
